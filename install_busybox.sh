@@ -2,7 +2,7 @@
 
 MODULE_PATH="/data/adb/modules/busybox-ndk"
 DOWNLOAD_PATH="/sdcard/Download/UPDATE-Busybox.Installer.v1.36.1-ALL-signed.zip"
-URL="https://github.com/IoT-VN/U-Desktop-root/raw/refs/heads/main/busybox-ndk/UPDATE-Busybox.Installer.v1.36.1-ALL-signed.zip"
+URL="https://raw.githubusercontent.com/IoT-VN/U-Desktop-root/main/busybox-ndk/UPDATE-Busybox.Installer.v1.36.1-ALL-signed.zip"
 
 echo "Checking busybox-ndk module..."
 
